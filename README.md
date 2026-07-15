@@ -1,22 +1,24 @@
 <!--
   Profile README for github.com/atlasatakahraman
   GitHub removes custom CSS and @font-face rules from README files.
-  The art-directed typography below is therefore rendered into local,
-  self-contained image assets using Anthropic Serif, Sans, and Mono.
+  The art-directed typography below is therefore converted to outlined,
+  self-contained SVG assets using Anthropic Serif, Sans, and Mono.
 -->
 
 <p align="center">
   <a href="https://github.com/atlasatakahraman">
-    <img src="./assets/hero.png" width="100%" alt="Atlas Ata Kahraman — Creative developer and graphic designer. I build useful tools with a designer's eye." />
+    <img src="./assets/hero.svg" width="100%" alt="Atlas Ata Kahraman — Creative developer and graphic designer. I build useful tools with a designer's eye." />
   </a>
 </p>
 
 <p align="center">
-  <a href="#selected-work">Work</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#toolkit">Toolkit</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#currently">Currently</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#elsewhere">Elsewhere</a>
+  <a href="#selected-work"><img src="./assets/badges/nav-work.svg" height="30" alt="Work" /></a>&nbsp;
+  <a href="#toolkit"><img src="./assets/badges/nav-toolkit.svg" height="30" alt="Toolkit" /></a>&nbsp;
+  <a href="#currently"><img src="./assets/badges/nav-currently.svg" height="30" alt="Currently" /></a>&nbsp;
+  <a href="#elsewhere"><img src="./assets/badges/nav-elsewhere.svg" height="30" alt="Elsewhere" /></a>
 </p>
+
+<br>
 
 ## Hello — I’m Atlas.
 
@@ -30,21 +32,21 @@ My work centers on **local-first desktop software**, **media tooling**, **AI-ass
 
 <a id="selected-work"></a>
 <p align="center">
-  <img src="./assets/work.png" width="100%" alt="Selected work: TheAtlas Media, TheAtlas Queue, TheAtlas Python, and AtlasAta DotFiles." />
+  <img src="./assets/work.svg" width="100%" alt="Selected work: TheAtlas Media, TheAtlas Queue, TheAtlasPython, and AtlasAta DotFiles." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/atlasatakahraman/TheAtlas-Media"><strong>TheAtlas Media ↗</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/atlasatakahraman/TheAtlas-Queue"><strong>TheAtlas Queue ↗</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/atlasatakahraman/TheAtlasPython"><strong>TheAtlas Python ↗</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/atlasatakahraman/AtlasAta-DotFiles"><strong>DotFiles ↗</strong></a>
+  <a href="https://github.com/atlasatakahraman/TheAtlas-Media"><img src="./assets/badges/project-media.svg" height="32" alt="TheAtlas Media" /></a>&nbsp;
+  <a href="https://github.com/atlasatakahraman/TheAtlas-Queue"><img src="./assets/badges/project-queue.svg" height="32" alt="TheAtlas Queue" /></a>&nbsp;
+  <a href="https://github.com/atlasatakahraman/TheAtlasPython"><img src="./assets/badges/project-python.svg" height="32" alt="TheAtlasPython" /></a>&nbsp;
+  <a href="https://github.com/atlasatakahraman/AtlasAta-DotFiles"><img src="./assets/badges/project-dotfiles.svg" height="32" alt="AtlasAta DotFiles" /></a>
 </p>
 
 <br>
 
 <a id="toolkit"></a>
 <p align="center">
-  <img src="./assets/toolkit.png" width="100%" alt="Toolkit: TypeScript, Next.js, React, Tailwind, Tauri, Rust, Python, FFmpeg, ESRGAN, RIFE, Photoshop, After Effects, Arch Linux, Hyprland, Fish, and Neovim." />
+  <img src="./assets/toolkit.svg" width="100%" alt="Toolkit: TypeScript, Next.js, React, Tailwind, Tauri, Rust, Python, FFmpeg, ESRGAN, RIFE, Photoshop, After Effects, Arch Linux, Hyprland, Fish, and Neovim." />
 </p>
 
 ### The principles behind the pixels
@@ -68,16 +70,17 @@ My work centers on **local-first desktop software**, **media tooling**, **AI-ass
 
 <a id="elsewhere"></a>
 <a href="mailto:atlasatakahraman.com@gmail.com">
-  <img src="./assets/footer.png" width="100%" alt="Let's make something useful. Start a conversation with Atlas Ata Kahraman." />
+  <img src="./assets/footer.svg" width="100%" alt="Let's make something useful. Start a conversation with Atlas Ata Kahraman." />
 </a>
 
 <p align="center">
-  <a href="https://www.youtube.com/@atlasatakahraman">YouTube</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.twitch.tv/atlasatakahraman">Twitch</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://kick.com/atlasatakahraman">Kick</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.instagram.com/atlasatakahraman">Instagram</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://bionluk.com/atlasatakahraman">Bionluk</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://discord.gg/YhuKGzNatA">Discord</a>
+  <a href="https://github.com/atlasatakahraman"><img src="./assets/badges/social-github.svg" height="30" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.youtube.com/@atlasatakahraman"><img src="./assets/badges/social-youtube.svg" height="30" alt="YouTube" /></a>&nbsp;
+  <a href="https://www.twitch.tv/atlasatakahraman"><img src="./assets/badges/social-twitch.svg" height="30" alt="Twitch" /></a>&nbsp;
+  <a href="https://kick.com/atlasatakahraman"><img src="./assets/badges/social-kick.svg" height="30" alt="Kick" /></a>&nbsp;
+  <a href="https://www.instagram.com/atlasatakahraman"><img src="./assets/badges/social-instagram.svg" height="30" alt="Instagram" /></a>&nbsp;
+  <a href="https://bionluk.com/atlasatakahraman"><img src="./assets/badges/social-bionluk.svg" height="30" alt="Bionluk" /></a>&nbsp;
+  <a href="https://discord.gg/YhuKGzNatA"><img src="./assets/badges/social-discord.svg" height="30" alt="Discord" /></a>
 </p>
 
 <p align="center">
