@@ -20,7 +20,7 @@
 
 <br>
 
-## Hello — I’m Atlas.
+## Hello — I’m Atlas Ata.
 
 I’m a creative developer and graphic designer based in **Kuşadası, Türkiye**. I move between interface design and implementation: defining the visual language, then building the product in TypeScript, Rust, or Python.
 
