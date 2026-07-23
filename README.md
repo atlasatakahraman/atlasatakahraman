@@ -1,3 +1,10 @@
+<!--
+  Profile README for github.com/atlasatakahraman
+  GitHub removes custom CSS and @font-face rules from README files.
+  The art-directed typography below is therefore converted to outlined,
+  self-contained SVG assets using Anthropic Serif, Sans, and Mono.
+-->
+
 <p align="center">
   <a href="https://github.com/atlasatakahraman">
     <img src="./assets/hero.svg" width="100%" alt="Atlas Ata Kahraman — Creative developer and graphic designer. I build useful tools with a designer's eye." />
@@ -5,11 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="#selected-work"><img src="./assets/badges/nav-work.svg" height="30" alt="Work" /></a>&nbsp;
-  <a href="#toolkit"><img src="./assets/badges/nav-toolkit.svg" height="30" alt="Toolkit" /></a>&nbsp;
-  <a href="#certificates"><img src="./assets/badges/nav-certificates.svg" height="30" alt="Certificates" /></a>&nbsp;
-  <a href="#currently"><img src="./assets/badges/nav-currently.svg" height="30" alt="Currently" /></a>&nbsp;
-  <a href="#elsewhere"><img src="./assets/badges/nav-elsewhere.svg" height="30" alt="Elsewhere" /></a>
+  <a href="#selected-work"><img src="./assets/badges/nav-work.svg" height="38" alt="Work" /></a>&nbsp;
+  <a href="#toolkit"><img src="./assets/badges/nav-toolkit.svg" height="38" alt="Toolkit" /></a>&nbsp;
+  <a href="#certificates"><img src="./assets/badges/nav-certificates.svg" height="38" alt="Certificates" /></a>&nbsp;
+  <a href="#currently"><img src="./assets/badges/nav-currently.svg" height="38" alt="Currently" /></a>&nbsp;
+  <a href="#elsewhere"><img src="./assets/badges/nav-elsewhere.svg" height="38" alt="Elsewhere" /></a>
 </p>
 
 <br>
@@ -30,10 +37,10 @@ My work centers on **local-first desktop software**, **media tooling**, **AI-ass
 </p>
 
 <p align="center">
-  <a href="https://github.com/atlasatakahraman/TheAtlas-Media"><img src="./assets/badges/project-media.svg" height="32" alt="TheAtlas Media" /></a>&nbsp;
-  <a href="https://github.com/atlasatakahraman/TheAtlas-Queue"><img src="./assets/badges/project-queue.svg" height="32" alt="TheAtlas Queue" /></a>&nbsp;
-  <a href="https://github.com/atlasatakahraman/TheAtlasPython"><img src="./assets/badges/project-python.svg" height="32" alt="TheAtlasPython" /></a>&nbsp;
-  <a href="https://github.com/atlasatakahraman/AtlasAta-DotFiles"><img src="./assets/badges/project-dotfiles.svg" height="32" alt="AtlasAta DotFiles" /></a>
+  <a href="https://github.com/atlasatakahraman/TheAtlas-Media"><img src="./assets/badges/project-media.svg" height="38" alt="TheAtlas Media" /></a>&nbsp;
+  <a href="https://github.com/atlasatakahraman/TheAtlas-Queue"><img src="./assets/badges/project-queue.svg" height="38" alt="TheAtlas Queue" /></a>&nbsp;
+  <a href="https://github.com/atlasatakahraman/TheAtlasPython"><img src="./assets/badges/project-python.svg" height="38" alt="TheAtlasPython" /></a>&nbsp;
+  <a href="https://github.com/atlasatakahraman/AtlasAta-DotFiles"><img src="./assets/badges/project-dotfiles.svg" height="38" alt="AtlasAta DotFiles" /></a>
 </p>
 
 <br>
@@ -59,10 +66,10 @@ My work centers on **local-first desktop software**, **media tooling**, **AI-ass
 </p>
 
 <p align="center">
-  <a href="./certificates/anthropic-claude-101.pdf"><img src="./assets/badges/certificate-claude.svg" height="32" alt="View Claude 101 certificate" /></a>&nbsp;
-  <a href="./certificates/anthropic-claude-code-101.pdf"><img src="./assets/badges/certificate-code.svg" height="32" alt="View Claude Code 101 certificate" /></a>&nbsp;
-  <a href="./certificates/anthropic-claude-platform-101.pdf"><img src="./assets/badges/certificate-platform.svg" height="32" alt="View Claude Platform 101 certificate" /></a>&nbsp;
-  <a href="./certificates/anthropic-ai-fluency-for-builders.pdf"><img src="./assets/badges/certificate-fluency.svg" height="32" alt="View AI Fluency for Builders certificate" /></a>
+  <a href="./certificates/claude-101/"><img src="./assets/badges/certificate-claude.svg" height="38" alt="Learn what the Claude 101 certificate represents" /></a>&nbsp;
+  <a href="./certificates/claude-code-101/"><img src="./assets/badges/certificate-code.svg" height="38" alt="Learn what the Claude Code 101 certificate represents" /></a>&nbsp;
+  <a href="./certificates/claude-platform-101/"><img src="./assets/badges/certificate-platform.svg" height="38" alt="Learn what the Claude Platform 101 certificate represents" /></a>&nbsp;
+  <a href="./certificates/ai-fluency-for-builders/"><img src="./assets/badges/certificate-fluency.svg" height="38" alt="Learn what the AI Fluency for Builders certificate represents" /></a>
 </p>
 
 <br>
@@ -84,13 +91,13 @@ My work centers on **local-first desktop software**, **media tooling**, **AI-ass
 </a>
 
 <p align="center">
-  <a href="https://github.com/atlasatakahraman"><img src="./assets/badges/social-github.svg" height="30" alt="GitHub" /></a>&nbsp;
-  <a href="https://www.youtube.com/@atlasatakahraman"><img src="./assets/badges/social-youtube.svg" height="30" alt="YouTube" /></a>&nbsp;
-  <a href="https://www.twitch.tv/atlasatakahraman"><img src="./assets/badges/social-twitch.svg" height="30" alt="Twitch" /></a>&nbsp;
-  <a href="https://kick.com/atlasatakahraman"><img src="./assets/badges/social-kick.svg" height="30" alt="Kick" /></a>&nbsp;
-  <a href="https://www.instagram.com/atlasatakahraman"><img src="./assets/badges/social-instagram.svg" height="30" alt="Instagram" /></a>&nbsp;
-  <a href="https://bionluk.com/atlasatakahraman"><img src="./assets/badges/social-bionluk.svg" height="30" alt="Bionluk" /></a>&nbsp;
-  <a href="https://discord.gg/YhuKGzNatA"><img src="./assets/badges/social-discord.svg" height="30" alt="Discord" /></a>
+  <a href="https://github.com/atlasatakahraman"><img src="./assets/badges/social-github.svg" height="38" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.youtube.com/@atlasatakahraman"><img src="./assets/badges/social-youtube.svg" height="38" alt="YouTube" /></a>&nbsp;
+  <a href="https://www.twitch.tv/atlasatakahraman"><img src="./assets/badges/social-twitch.svg" height="38" alt="Twitch" /></a>&nbsp;
+  <a href="https://kick.com/atlasatakahraman"><img src="./assets/badges/social-kick.svg" height="38" alt="Kick" /></a>&nbsp;
+  <a href="https://www.instagram.com/atlasatakahraman"><img src="./assets/badges/social-instagram.svg" height="38" alt="Instagram" /></a>&nbsp;
+  <a href="https://bionluk.com/atlasatakahraman"><img src="./assets/badges/social-bionluk.svg" height="38" alt="Bionluk" /></a>&nbsp;
+  <a href="https://discord.gg/YhuKGzNatA"><img src="./assets/badges/social-discord.svg" height="38" alt="Discord" /></a>
 </p>
 
 <p align="center">
