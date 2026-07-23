@@ -1,10 +1,3 @@
-<!--
-  Profile README for github.com/atlasatakahraman
-  GitHub removes custom CSS and @font-face rules from README files.
-  The art-directed typography below is therefore converted to outlined,
-  self-contained SVG assets using Anthropic Serif, Sans, and Mono.
--->
-
 <p align="center">
   <a href="https://github.com/atlasatakahraman">
     <img src="./assets/hero.svg" width="100%" alt="Atlas Ata Kahraman — Creative developer and graphic designer. I build useful tools with a designer's eye." />
@@ -14,13 +7,14 @@
 <p align="center">
   <a href="#selected-work"><img src="./assets/badges/nav-work.svg" height="30" alt="Work" /></a>&nbsp;
   <a href="#toolkit"><img src="./assets/badges/nav-toolkit.svg" height="30" alt="Toolkit" /></a>&nbsp;
+  <a href="#certificates"><img src="./assets/badges/nav-certificates.svg" height="30" alt="Certificates" /></a>&nbsp;
   <a href="#currently"><img src="./assets/badges/nav-currently.svg" height="30" alt="Currently" /></a>&nbsp;
   <a href="#elsewhere"><img src="./assets/badges/nav-elsewhere.svg" height="30" alt="Elsewhere" /></a>
 </p>
 
 <br>
 
-## Hello — I’m Atlas Ata.
+## Hello — I’m Atlas.
 
 I’m a creative developer and graphic designer based in **Kuşadası, Türkiye**. I move between interface design and implementation: defining the visual language, then building the product in TypeScript, Rust, or Python.
 
@@ -56,6 +50,22 @@ My work centers on **local-first desktop software**, **media tooling**, **AI-ass
 **Local by default.** When a workflow can stay private, fast, and on-device, it should.
 
 **Design and engineering belong together.** A polished surface is strongest when the architecture underneath is equally considered.
+
+<br>
+
+<a id="certificates"></a>
+<p align="center">
+  <img src="./assets/certificates.svg" width="100%" alt="Certificates: Claude 101, Claude Code 101, Claude Platform 101, and AI Fluency for Builders." />
+</p>
+
+<p align="center">
+  <a href="./certificates/anthropic-claude-101.pdf"><img src="./assets/badges/certificate-claude.svg" height="32" alt="View Claude 101 certificate" /></a>&nbsp;
+  <a href="./certificates/anthropic-claude-code-101.pdf"><img src="./assets/badges/certificate-code.svg" height="32" alt="View Claude Code 101 certificate" /></a>&nbsp;
+  <a href="./certificates/anthropic-claude-platform-101.pdf"><img src="./assets/badges/certificate-platform.svg" height="32" alt="View Claude Platform 101 certificate" /></a>&nbsp;
+  <a href="./certificates/anthropic-ai-fluency-for-builders.pdf"><img src="./assets/badges/certificate-fluency.svg" height="32" alt="View AI Fluency for Builders certificate" /></a>
+</p>
+
+<br>
 
 <a id="currently"></a>
 ### What I’m exploring now
