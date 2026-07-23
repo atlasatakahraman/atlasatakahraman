@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="./certificate.pdf">
+    <img src="./certificate.svg" width="100%" alt="AI Fluency for Builders certificate awarded to Atlas Ata Kahraman" />
+  </a>
+</p>
+
+<p align="center">
   <img src="../../assets/badges/certificate-fluency.svg" height="42" alt="AI Fluency for Builders" />
 </p>
 

@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="./certificate.pdf">
+    <img src="./certificate.svg" width="100%" alt="Claude Platform 101 certificate awarded to Atlas Ata Kahraman" />
+  </a>
+</p>
+
+<p align="center">
   <img src="../../assets/badges/certificate-platform.svg" height="42" alt="Claude Platform 101" />
 </p>
 
